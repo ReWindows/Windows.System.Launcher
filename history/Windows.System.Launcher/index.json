@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.System.Launcher.dll",
+  "latest": "3320211533-C41227BC2AB92AA0DE5CD89B07D67507-1",
+  "builds": [
+    {
+      "key": "3320211533-C41227BC2AB92AA0DE5CD89B07D67507-1",
+      "timestamp": "3320211533",
+      "pdb_guid": "C41227BC2AB92AA0DE5CD89B07D67507",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3320211533-C41227BC2AB92AA0DE5CD89B07D67507-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
